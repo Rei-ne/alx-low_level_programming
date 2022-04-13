@@ -2,4 +2,4 @@
 
 |Project File | Description |
 --------------|--------------
-|0-helberton.c | Prints holberton |
+|0-putchar.c | Prints putchar |
